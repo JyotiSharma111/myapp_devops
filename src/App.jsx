@@ -10,7 +10,7 @@ function App() {
   return (
     <div>
       <h1> My App</h1>
-      <h2> My name is Jyoti Sharma. I am learning devops </h2>
+      <h2> My name is Jyoti Sharma. I am learning devops. Cool! </h2>
       
     </div>
   )
